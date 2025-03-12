@@ -74,6 +74,4 @@ $ code .
 - Tailwind CSS
 - Daisy UI
 
-## Software Developer
 
-- **Kartik Pavan**
